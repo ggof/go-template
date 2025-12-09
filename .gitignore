@@ -1,0 +1,6 @@
+# ignore generated stuff
+*_templ.go
+db/queries/
+
+# ignore the database
+*.db
